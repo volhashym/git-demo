@@ -1,7 +1,6 @@
 some song
 the second line
-standing strond
-the forth line
+
 
 add in feature1 branch 
 
