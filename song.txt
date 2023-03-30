@@ -2,3 +2,6 @@ some song
 the second line
 standing strond
 the forth line
+
+some other line
+the sixth line
